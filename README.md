@@ -1,4 +1,4 @@
-# Laravel Altcha
+# Laravel Altcha.
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/grantholle/laravel-altcha.svg?style=flat-square)](https://packagist.org/packages/grantholle/laravel-altcha)
 [![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/grantholle/laravel-altcha/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/grantholle/laravel-altcha/actions?query=workflow%3Arun-tests+branch%3Amain)
